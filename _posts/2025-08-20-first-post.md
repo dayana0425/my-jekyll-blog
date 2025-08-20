@@ -19,7 +19,7 @@ I’m currently exploring AI and large language models (LLMs) to better understa
 ---
 **Outside of working hours** - I like to do a lot.
 
-<u>During the week</u>, you’ll usually find me dancing salsa and bachata at local clubs late into the night (& I also teach Salsa). It’s my favorite way to stay active, have fun, and connect with others through music.
+<u>During the week</u>, you’ll usually find me dancing salsa and bachata at local clubs late into the night (& I also teach Salsa every Tuesday). It’s my favorite way to stay active, have fun, and connect with others through music.
 
 <u>On weekends</u>, I love being out in nature. One of my goals is to hike all of Colorado’s named 14ers. I enjoy jumping into alpine lakes, visiting Rocky Mountain National Park, and simply enjoying the beauty of nature. For me nature is incredibly healing and it relaxes me. It's also great exercise, of course. It's my fave way to bond with friends as there's nothing more bonding than yapping for hours while also fighting for our lives during a long and strenuous hike. :)
 
