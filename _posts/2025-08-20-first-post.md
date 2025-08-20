@@ -14,7 +14,7 @@ There isn’t a specific theme here. It will be random until it’s not. :D
 
 **A quick introduction** - Currently I’m a 26-year-old woman based in Denver, Colorado, working as a software engineer with a focus on frontend development. 
 
-I’m currently exploring AI and large language models (LLMs) to better understand their use cases and improve my development workflow. At the same time, I’m leveling up my UI/UX skills, as my work often overlaps with design. I love creating intuitive user flows and interfaces that make complex technologies feel simple and accessible. I believe tech is incredibly powerful, and it’s deeply rewarding to reduce friction & *access* through thoughtful, human-centered design.
+I’m currently exploring AI and large language models (LLMs) to better understand their use cases and improve my development workflow. At the same time, I’m leveling up my UI/UX skills, as my work often overlaps with design. I love creating intuitive user flows and interfaces that make complex technologies feel simple and accessible. I believe tech is incredibly powerful, and it’s deeply rewarding to reduce friction & barriers of *access* through thoughtful, human-centered design.
 
 ---
 **Outside of working hours** - I like to do a lot.
