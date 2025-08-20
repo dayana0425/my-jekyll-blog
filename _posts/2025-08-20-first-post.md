@@ -4,15 +4,32 @@ title: "First Post"
 categories: Miscellaneous
 ---
 
-**Hello stranger**, welcome to my blog! I'm going to be using this blog to post my thoughts, ideas and brain barf lol. 
+**Hello stranger** - Welcome to my blog! I’ll be using this space to share my thoughts, ideas, and all the things~
 
-At the beginning of 2025, I made a new years resolution to write more and therefore, I thought the best way to do it was to start a blog where I could just write whatever I wanted.
+At the start of 2025, I made a New Year’s resolution to write more, and I figured the best way to stick to it was to start a blog where I can freely write about whatever I want.
 
-I don't have a particular focus for this blog. It'll be random until it's not. :D
+There isn’t a specific theme here. It will be random until it’s not. :D
 
-**A quick introduction:** I'm currently a 26 year old woman living in Denver, Colorado. I'm a software engineer by trade and during the weekdays you can find me dancing salsa/bachata at the clubs until late at night. During the weekends, I love being in nature. It's a life goal of mine to hike all the named 14ers in Colorado. I enjoy jumping into alpine lakes and visiting Rocky Mountain National Park for scenic hikes. I don't always hike to conquer but simply to enjoy and be in nature with no goal in mind. 
+---
 
-Anyways, I'm glad I made my first post. Here's to more posts and accomplishing my new years resolutions. Woo! FYI: I won't be using chatgpt or any AI assistance to write these posts. The goal is for *me* to write more. 
+**A quick introduction** - Currently I’m a 26-year-old woman based in Denver, Colorado, working as a software engineer with a focus on frontend development. 
+
+I’m currently exploring AI and large language models (LLMs) to better understand their use cases and improve my development workflow. At the same time, I’m leveling up my UI/UX skills, as my work often overlaps with design. I love creating intuitive user flows and interfaces that make complex technologies feel simple and accessible. I believe tech is incredibly powerful, and it’s deeply rewarding to reduce friction & *access* through thoughtful, human-centered design.
+
+---
+**Outside of working hours** - I like to do a lot.
+
+<u>During the week</u>, you’ll usually find me dancing salsa and bachata at local clubs late into the night (& I also teach Salsa). It’s my favorite way to stay active, have fun, and connect with others through music.
+
+<u>On weekends</u>, I love being out in nature. One of my goals is to hike all of Colorado’s named 14ers. I enjoy jumping into alpine lakes, visiting Rocky Mountain National Park, and simply being present in the beauty of nature.
+
+<u>Current Read</u>: *Rewrite Your Rules by Morgan DeBaun*
+
+<u>Current Fave Song</u>: *Mentira by Dani J, Kewin Cosmos*
+
+---
+
+**Anyway** - I’m glad I finally made my first post. Here’s to more writing and making progress on my New Year’s resolutions. **Woo!**
 
 XOXO,
 Day
