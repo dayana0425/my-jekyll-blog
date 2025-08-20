@@ -25,7 +25,7 @@ I’m currently exploring AI and large language models (LLMs) to better understa
 
 <u>Current Read</u>: *Rewrite Your Rules by Morgan DeBaun*
 
-<u>Current Fave Song</u>: *Mentira by Dani J, Kewin Cosmos*
+<u>Current Fave Song</u>: *Mentiras by Dani J, Kewin Cosmos*
 
 ---
 
