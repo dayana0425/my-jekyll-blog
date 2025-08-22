@@ -3,6 +3,9 @@ layout: post
 title: "First Post"
 categories: Miscellaneous
 ---
+Read my first blog post ever.
+
+## First Blog Post
 
 **Hello stranger** - Welcome to my blog! I’ll be using this space to share my thoughts, ideas, and all the things~
 
