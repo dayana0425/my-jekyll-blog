@@ -3,36 +3,34 @@ layout: post
 title: "First Post"
 categories: Miscellaneous
 ---
-Read my first blog post ever.
+Welcome to my blog!  
 
-## First Blog Post
+## A Fresh Start  
 
-**Hello stranger** - Welcome to my blog! I’ll be using this space to share my thoughts, ideas, and all the things~
+Hello and welcome to my little corner of the internet. I decided that 2025 would be the year I finally commit to writing more, and this blog is where I’ll share my thoughts, ideas, and reflections as I go.  
 
-At the start of 2025, I made a New Year’s resolution to write more, and I figured the best way to stick to it was to start a blog where I can freely write about whatever I want.
+There is no set theme yet. I am letting myself write freely, and over time I imagine a pattern will emerge.  
 
-There isn’t a specific theme here. It will be random until it’s not. :D
+## About Me  
 
----
+I am a 26 year old software engineer based in Denver, Colorado. My focus is frontend development, but I am also exploring AI and large language models to see how they can improve my workflow and open new possibilities for building. At the same time I am sharpening my UI and UX skills, because so much of my work overlaps with design. I love making complex technology feel simple and accessible through thoughtful, human centered interfaces.  
 
-**A quick introduction** - Currently I’m a 26-year-old woman based in Denver, Colorado, working as a software engineer with a focus on frontend development. 
+A lot of this stems from how I grew up. As the “tech person” in my family, I was the one setting up websites, resetting passwords, and explaining how to use apps. That experience taught me that technology is only as powerful as it is usable, and I carry that lesson into my work today.  
 
-I’m currently exploring AI and large language models (LLMs) to better understand their use cases and improve my development workflow. At the same time, I’m leveling up my UI/UX skills, as my work often overlaps with design. I love creating intuitive user flows and interfaces that make complex technologies feel simple and accessible. I believe tech is incredibly powerful, and it’s deeply rewarding to reduce friction & barriers of access through thoughtful, human-centered design. Part of my ethos comes from growing up as the “tech person” in my family. Websites were too confusing for my parents to use, so I became the password book and digital navigator for everyone.
+## Beyond Work  
 
----
-**Outside of working hours** - I like to do a lot.
+Life outside of coding is full too.  
 
-<u>During the week</u>, you’ll usually find me dancing salsa and bachata at local clubs late into the night (& I also teach Salsa every Tuesday). It’s my favorite way to stay active, have fun, and connect with others through music.
+During the week I spend most evenings dancing salsa and bachata at local clubs. I also teach salsa on Tuesdays, which has become one of the most rewarding parts of my routine. Dancing is my way to stay active, connect with people, and lose myself in music.  
 
-<u>On weekends</u>, I love being out in nature. One of my goals is to hike all of Colorado’s named 14ers. I enjoy jumping into alpine lakes, visiting Rocky Mountain National Park, and simply enjoying the beauty of nature. For me nature is incredibly healing and it relaxes me. It's also great exercise, of course. It's my fave way to bond with friends as there's nothing more bonding than yapping for hours while also fighting for our lives during a long and strenuous hike. :)
+On weekends I usually head outdoors. Hiking is one of my passions, and one of my long term goals is to climb all of Colorado’s 14ers. I love the challenge of long trails, jumping into alpine lakes, and the way conversations flow when you are hours into a hike with friends. Nature is my reset button.  
 
-<u>Current Read</u>: *Rewrite Your Rules by Morgan DeBaun*
+Right now I am reading *Rewrite Your Rules* by Morgan DeBaun.  
+My current favorite song is *Mentiras* by Dani J and Kewin Cosmos.  
 
-<u>Current Fave Song</u>: *Mentiras by Dani J, Kewin Cosmos*
+## Closing Thoughts  
 
----
+I am glad I finally sat down to write this first post. It feels good to start, even imperfectly. Here is to writing more often, documenting the journey, and keeping my New Year’s resolution alive.  
 
-**Anyway** - I’m glad I finally made my first post. Here’s to more writing and making progress on my New Year’s resolutions. **Woo!**
-
-XOXO,
-Day
+XOXO,  
+Day  
