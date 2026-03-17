@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "30 Day Challenge to Stop Living in Avoidance and Denial"
-categories: Personal-Growth Challenge
+categories: Personal-Growth
 ---
 
 Read about my decision to stop running from my problems.
